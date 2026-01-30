@@ -4,6 +4,11 @@ This project is a **GUI-based SOC-style forensic log analysis dashboard** develo
 It visualizes forensic findings from system logs using a **FastAPI backend** and a **Streamlit-based frontend**.
 
 ---
+## 🌐 Live Demo
+
+👉 **[Open the live SOC dashboard](https://log-analysis-gui-prakruti.streamlit.app/)**
+
+---
 
 ## 🎯 Objective
 
