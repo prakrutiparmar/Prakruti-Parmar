@@ -12,19 +12,17 @@ The primary purpose of this repository is:
 
 ---
 
-## 🛠️ Internship Tasks
+## 🛠️ Internship Assignments
 
-### 📌 Log Analysis Assignment
-This assignment focuses on analyzing different system and security logs to identify patterns, risks, and security-relevant events.
+| Assignment Name | Description | Skills & Tools Used |
+|-----------------|-------------|---------------------|
+| **GUI Assignment** | Designed and implemented a basic graphical user interface to understand UI components, layouts, and user interaction flow. Focused on usability and clean structure. | GUI concepts, UI design basics |
+| **Log Analysis Assignment** | Performed in-depth analysis of system and security logs to identify anomalies, persistence techniques, browser activity, and potential risk signals. Created structured reports documenting findings and conclusions. | Log Analysis, Cybersecurity Basics, Digital Forensics |
+| **Browser Activity Analysis** | Analyzed browser history and artifacts to trace user behavior, downloads, and potential suspicious activity from logs. | Browser Forensics, Data Interpretation |
+| **Network Traffic Analysis** | Examined network-related logs to identify unusual traffic patterns and possible security concerns. | Networking Fundamentals, Security Analysis |
+| **Persistence Mechanism Detection** | Investigated system logs to detect persistence techniques used by applications or malicious actors. | Threat Analysis, System Monitoring |
+| **Security Audit & Risk Identification** | Identified risks, anomalies, and security indicators from collected logs and summarized them in professional audit-style reports. | Risk Assessment, Technical Documentation |
 
-The analysis reports included in this task cover:
-- Browser activity analysis
-- Network traffic analysis
-- Persistence mechanisms
-- Risk signal identification
-- Security audit observations
-
-Each report documents the **methodology, observations, and conclusions** derived from the analysis.
 
 ---
 
